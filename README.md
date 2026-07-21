@@ -63,3 +63,18 @@ Os dados utilizados neste projeto foram organizados em uma tabela financeira con
 - Valor financeiro
 
 Durante o processo de desenvolvimento, os dados passaram por validação e tratamento no **Power Query**, garantindo consistência antes da criação das medidas DAX e das visualizações no Power BI.
+
+##  Aprendizados
+
+Durante o desenvolvimento deste projeto, foi possível aplicar conceitos fundamentais de Business Intelligence utilizando o Power BI.
+
+Os principais aprendizados foram:
+
+- Desenvolvimento de dashboards interativos para análise financeira.
+- Tratamento e preparação de dados utilizando Power Query.
+- Criação de medidas DAX para construção de indicadores financeiros.
+- Organização da modelagem dos dados para facilitar as análises.
+- Construção de KPIs para acompanhamento de receitas, despesas e margem de lucro.
+- Desenvolvimento de visualizações para transformar dados em informações úteis para apoio à tomada de decisão.
+
+Este projeto contribuiu para consolidar conhecimentos em Power BI e fortalecer habilidades voltadas para a área de Análise de Dados.
