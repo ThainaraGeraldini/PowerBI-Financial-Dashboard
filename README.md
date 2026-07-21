@@ -1,4 +1,5 @@
 # Dashboard de Análise Financeira
+# Dashboard desenvolvido no Power BI para análise de receitas, despesas e margem de lucro utilizando Power Query, DAX e indicadores financeiros.
 
 ## Sobre o Projeto:
 
