@@ -49,7 +49,7 @@ Com este dashboard é possível:
 - Monitorar indicadores financeiros por meio de KPIs.
 - Apoiar a tomada de decisão utilizando informações consolidadas.
 
-### Implementação das Medidas
+## Implementação das Medidas DAX
 
 ![Medidas DAX](medidas_dax.png)
 
