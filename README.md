@@ -52,3 +52,14 @@ Com este dashboard é possível:
 ### Implementação das Medidas
 
 ![Medidas DAX](medidas_dax.png)
+
+##  Estrutura dos Dados
+
+Os dados utilizados neste projeto foram organizados em uma tabela financeira contendo informações de:
+
+- Tipo da movimentação (Receita ou Despesa)
+- Componente financeiro
+- Data da movimentação
+- Valor financeiro
+
+Durante o processo de desenvolvimento, os dados passaram por validação e tratamento no **Power Query**, garantindo consistência antes da criação das medidas DAX e das visualizações no Power BI.
