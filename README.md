@@ -23,7 +23,7 @@ Abaixo está a visão geral do dashboard desenvolvido no Power BI.
 
 Para manter o projeto organizado, foi criada uma tabela dedicada às medidas DAX, separando os cálculos da tabela principal de dados. Essa abordagem facilita a manutenção do modelo e melhora a organização do desenvolvimento no Power BI.
 
-![Organização do Modelo](modelo_dados.png)
+![Organização do Modelo](organizaçao_modelo.png)
 
 - 
  ##  Competências Demonstradas
