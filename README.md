@@ -86,3 +86,10 @@ Os principais aprendizados foram:
 - Desenvolvimento de visualizações para transformar dados em informações úteis para apoio à tomada de decisão.
 
 Este projeto contribuiu para consolidar conhecimentos em Power BI e fortalecer habilidades voltadas para a área de Análise de Dados.
+
+## Contexto do Projeto
+
+Este projeto foi desenvolvido como parte das atividades práticas de um curso de Power BI.
+
+Além da implementação do dashboard, toda a documentação, organização do repositório, estrutura do README e apresentação do projeto foram elaboradas por mim com o objetivo de compor meu portfólio na área de Análise de Dados.
+**Observação:** Os dados utilizados neste projeto foram disponibilizados como material didático do curso e são utilizados exclusivamente para fins educacionais.
