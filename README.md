@@ -38,6 +38,17 @@ Para o desenvolvimento dos indicadores financeiros, foram criadas medidas utiliz
 | **TotalDespesas** | Calcula o valor total das despesas. |
 | **MargemLucro** | Calcula a margem de lucro com base nas receitas e no lucro obtido. |
 
+##  Principais Insights
+
+Com este dashboard é possível:
+
+- Acompanhar a evolução das receitas ao longo do período analisado.
+- Comparar receitas e despesas para avaliar a margem de lucro.
+- Identificar os componentes com maior participação nas receitas.
+- Identificar os principais componentes responsáveis pelas despesas.
+- Monitorar indicadores financeiros por meio de KPIs.
+- Apoiar a tomada de decisão utilizando informações consolidadas.
+
 ### Implementação das Medidas
 
 ![Medidas DAX](medidas_dax.png)
