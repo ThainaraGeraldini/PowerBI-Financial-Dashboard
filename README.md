@@ -18,6 +18,13 @@ Abaixo está a visão geral do dashboard desenvolvido no Power BI.
 - **Power Query** - Validação, tratamento e preparação dos dados antes da modelagem.
 - **DAX (Data Analysis Expressions)** - Desenvolvimento de medidas para cálculo dos indicadores financeiros.
 - **Modelagem de Dados** - Organização da estrutura de dados e das medidas para suportar as análises.
+
+## Organização do Modelo
+
+Para manter o projeto organizado, foi criada uma tabela dedicada às medidas DAX, separando os cálculos da tabela principal de dados. Essa abordagem facilita a manutenção do modelo e melhora a organização do desenvolvimento no Power BI.
+
+![Organização do Modelo](modelo_dados.png)
+
 - 
  ##  Competências Demonstradas
 
