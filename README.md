@@ -1,5 +1,26 @@
 # Dashboard de Análise Financeira
-# Dashboard desenvolvido no Power BI para análise de receitas, despesas e margem de lucro utilizando Power Query, DAX e indicadores financeiros.
+
+## Projeto de Business Intelligence desenvolvido no Power BI com foco na análise de receitas, despesas e margem de lucro.
+
+ Neste projeto apliquei conceitos de modelagem de dados, Power Query e medidas DAX para desenvolver um dashboard interativo voltado ao acompanhamento de indicadores financeiros e ao apoio à tomada de decisões.
+
+## Objetivo
+
+Desenvolver um dashboard financeiro interativo para consolidar indicadores de receitas, despesas e margem de lucro, facilitando a análise do desempenho financeiro e apoiando a tomada de decisões.
+ 
+ ##  Tecnologias Utilizadas
+
+- **Power BI** 
+- **Power Query** 
+- **DAX (Data Analysis Expressions)**  
+- **Modelagem de Dados** 
+ 
+##  Visão Geral do Dashboard
+
+O dashboard apresenta uma visão consolidada dos principais indicadores financeiros, permitindo acompanhar receitas, despesas, margem de lucro e a distribuição dos componentes financeiros de forma interativa.
+
+![Dashboard Financeiro](dashboard_principal.png)
+
 
 ## Sobre o Projeto:
 
@@ -7,18 +28,6 @@ Este projeto foi desenvolvido no **Power BI** com o objetivo de criar um dashboa
 
 Para a construção da solução foram utilizadas medidas DAX, indicadores (KPIs) e recursos de visualização do Power BI, proporcionando uma visão consolidada do desempenho financeiro e auxiliando na interpretação dos dados para apoio à tomada de decisão.
 
-##  Dashboard
-
-Abaixo está a visão geral do dashboard desenvolvido no Power BI.
-
-![Dashboard Financeiro](dashboard_principal.png)
-
-##  Tecnologias Utilizadas
-
-- **Power BI** - Desenvolvimento do dashboard e criação das visualizações.
-- **Power Query** - Validação, tratamento e preparação dos dados antes da modelagem.
-- **DAX (Data Analysis Expressions)** - Desenvolvimento de medidas para cálculo dos indicadores financeiros.
-- **Modelagem de Dados** - Organização da estrutura de dados e das medidas para suportar as análises.
 
 ## Organização do Modelo
 
@@ -26,9 +35,8 @@ Para manter o projeto organizado, foi criada uma tabela dedicada às medidas DAX
 
 ![Organização do Modelo](organizacao_modelo.png)
 
-- 
- ##  Competências Demonstradas
-
+ ## Habilidades Aplicadas no Projeto
+ 
 - Desenvolvimento de dashboards interativos no Power BI.
 - Tratamento e preparação de dados utilizando Power Query.
 - Criação de medidas DAX para indicadores financeiros.
@@ -85,7 +93,7 @@ Os principais aprendizados foram:
 - Construção de KPIs para acompanhamento de receitas, despesas e margem de lucro.
 - Desenvolvimento de visualizações para transformar dados em informações úteis para apoio à tomada de decisão.
 
-Este projeto contribuiu para consolidar conhecimentos em Power BI e fortalecer habilidades voltadas para a área de Análise de Dados.
+Este projeto contribuiu para consolidar conhecimentos em Power BI e fortalecer habilidades voltadas para a área de Análise de Dados. Além do desenvolvimento do dashboard, este projeto reforçou boas práticas de organização, documentação e apresentação de projetos técnicos para composição do meu portfólio.
 
 ## Contexto do Projeto
 
