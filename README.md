@@ -22,7 +22,7 @@ O dashboard apresenta uma visão consolidada dos principais indicadores financei
 ![Dashboard Financeiro](dashboard_principal.png)
 
 
-## Sobre o Projeto:
+## Sobre o Projeto
 
 Este projeto foi desenvolvido no **Power BI** com o objetivo de criar um dashboard interativo para análise financeira, permitindo acompanhar indicadores de receitas, despesas e margem de lucro.
 
