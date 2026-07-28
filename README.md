@@ -13,7 +13,7 @@ Desenvolver um dashboard financeiro interativo para consolidar indicadores de re
 - **Power BI** 
 - **Power Query** 
 - **DAX (Data Analysis Expressions)**  
-- **Modelagem de Dados** 
+- **Modelagem de Dados**
  
 ##  Visão Geral do Dashboard
 
